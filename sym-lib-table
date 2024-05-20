@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "library")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/library.kicad_sym")(options "")(descr ""))
+  (lib (name "IC_Charging")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/IC_Charging.kicad_sym")(options "")(descr ""))
+)

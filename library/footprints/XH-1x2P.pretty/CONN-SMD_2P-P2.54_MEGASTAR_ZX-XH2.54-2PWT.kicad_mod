@@ -1,0 +1,223 @@
+(footprint "CONN-SMD_2P-P2.54_MEGASTAR_ZX-XH2.54-2PWT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "U?"
+		(at 0 -6.15 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7d90ac72-395b-4c6c-8227-1fe26595c94c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN-SMD_2P-P2.54_MEGASTAR_ZX-XH2.54-2PWT"
+		(at 0 6.15 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ab87d49e-7dac-4566-af50-8f03b306cbb0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "CONN-SMD_2P-P2.54_MEGASTAR_ZX-XH2.54-2PWT"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e36bf0c2-354c-49a4-b6dd-9585f7b23d66")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3baa2e6-8eca-4283-a6c7-380457a999a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d69d802-9288-4a6c-89d8-7eb8d207f95e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC_3DModel_Q" "cac492324c734378a901f4299e65630d"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(hide yes)
+		(uuid "0ef6f5fd-4727-4d20-9bb1-b4374b2d2834")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "JLC_3D_Size" "10 10.5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(hide yes)
+		(uuid "4e3c7ad2-d004-4c93-bc33-3bdbb173e55b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_line
+		(start -5 -2.55)
+		(end -5 1.5175)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "483484af-edd8-4fb5-a881-2d1516bd26cc")
+	)
+	(fp_line
+		(start -5 -2.55)
+		(end -2.3915 -2.55)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "61a1d78a-7548-48f4-a6e8-75dd517eefbe")
+	)
+	(fp_line
+		(start -3.249 5.207)
+		(end 3.249 5.207)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "201a1e9f-145a-4a82-b1ea-2daabb1add9a")
+	)
+	(fp_line
+		(start -0.25 -2.55)
+		(end 0.25 -2.55)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "374b79a3-008d-415a-abb6-fb9b0a72b167")
+	)
+	(fp_line
+		(start 2.3915 -2.5495)
+		(end 5 -2.5495)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "67a72397-3017-4e08-8a07-5cbd031994fa")
+	)
+	(fp_line
+		(start 5 -2.5495)
+		(end 5 1.518)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "aedc897a-83e3-4048-ba45-12a4bdd63b89")
+	)
+	(fp_circle
+		(center -3.16 -3.65)
+		(end -2.96 -3.65)
+		(stroke
+			(width 0.4)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "d2ff08ad-2173-4478-a328-739ddd6c3027")
+	)
+	(fp_circle
+		(center -3.16 -3.65)
+		(end -2.96 -3.65)
+		(stroke
+			(width 0.4)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "ed2f5622-879c-4689-90af-d6c494674ddd")
+	)
+	(fp_poly
+		(pts
+			(xy -4.94 -5.25) (xy -4.957574 -5.292426) (xy -5 -5.31) (xy -5.042426 -5.292426) (xy -5.06 -5.25)
+			(xy -5.042426 -5.207574) (xy -5 -5.19) (xy -4.957574 -5.207574)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "User.3")
+		(uuid "91b11293-8baa-4ed8-9ba1-2e02a5e96350")
+	)
+	(pad "1" smd rect
+		(at -1.25 -3.7)
+		(size 1.5 3.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d870c403-5f7f-4a4c-9918-0b7e395b12eb")
+	)
+	(pad "2" smd rect
+		(at 1.25 -3.7)
+		(size 1.5 3.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0f6fa425-4374-4b64-9099-be69ee64c1f9")
+	)
+	(pad "3" smd rect
+		(at -4.23 3.7)
+		(size 1.5 3.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a246cf6b-1e5c-4c71-85ea-b117f6e06fb3")
+	)
+	(pad "4" smd rect
+		(at 4.23 3.7)
+		(size 1.5 3.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8a31a8fd-3c48-47d9-9314-70ea713333bc")
+	)
+	(model "${KIPRJMOD}/EASYEDA_MODELS/CONN-SMD_2P-P2.54_MEGASTAR_ZX-XH2.54-2PWT.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -0)
+		)
+	)
+)
